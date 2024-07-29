@@ -1,6 +1,6 @@
 # Script de pos instalação do arch linux
 
-esse script faz algumas instalações e configurações no arch linux, ele foi feito para ser usado com o Kde, nada impede que ele funcione com outros DEs, porem alguns programas instalados pelo script não funcionem como o esperado.
+esse script faz algumas instalações e configurações no arch linux, ele foi feito para ser usado com o Kde, nada impede que ele funcione com outros DEs, porem alguns programas instalados pelo script podem não funcionar como o esperado.
 
 # O que o script faz?
 
